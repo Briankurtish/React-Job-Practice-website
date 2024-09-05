@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "a468",
+      "title": "React Application Developer",
+      "type": "Remote",
+      "location": "Miami",
+      "description": "This a position for React Application Developer",
+      "salary": "$60K - 70K",
+      "company": {
+        "name": "Green House Solutions",
+        "description": "This is an Awesome Company",
+        "contactEmail": "test@test.com",
+        "contactPhone": "333-333-333"
+      }
     }
   ]
 }
